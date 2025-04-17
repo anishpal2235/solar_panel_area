@@ -1,0 +1,7 @@
+train: C:\Users\Admin\OneDrive - ruggedmonitoring.com\Desktop\GAN\image_chips_native-20250212T103727Z-001\image_chips_native
+val: C:\Users\Admin\OneDrive - ruggedmonitoring.com\Desktop\GAN\image_chips_native-20250212T103727Z-001\image_chips_native
+test: C:\Users\Admin\OneDrive - ruggedmonitoring.com\Desktop\GAN\image_chips_native-20250212T103727Z-001\image_chips_native
+
+nc: 1
+
+names: ['solar_panel']
